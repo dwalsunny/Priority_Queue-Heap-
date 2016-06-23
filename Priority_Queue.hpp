@@ -1,5 +1,5 @@
-#ifndef A3_PRIORITY_QUEUE_HPP
-#define A3_PRIORITY_QUEUE_HPP
+#ifndef PRIORITY_QUEUE_HPP
+#define PRIORITY_QUEUE_HPP
 
 #include <iostream>
 #include <string>
