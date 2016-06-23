@@ -1,4 +1,4 @@
-# Priority_Queue-Heap-
+# Priority_Queue-Heap_Based
 
 
 A priority queue implemented as a heap based array.
